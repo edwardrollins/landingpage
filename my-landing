@@ -1,0 +1,5 @@
+my-landing/
+  index.html
+  /functions
+    /api
+      subscribe.js
